@@ -1,0 +1,7 @@
+Lista de notificari: 
+Locatar: 
+Apartament: 30 Proprietar: Ion Suprafata: 5 Tip: 4-Bedroom
+Locatar: 
+Apartament: 15 Proprietar: Ana Suprafata: 5 Tip: Studio
+Locatar: 
+Apartament: 40 Proprietar: B Suprafata: 1 Tip: 1

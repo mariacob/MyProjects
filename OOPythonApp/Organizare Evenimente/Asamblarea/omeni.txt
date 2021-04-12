@@ -1,0 +1,6 @@
+803;Cristian;Timisoara, Calea Victoriei 3
+956;Miruna;Chitila, Bd. Elisabeta 97
+779;Alex;Cluj, Strada Orhideelor 85
+420;Ion;Bucuresti, Strada Orhideelor 47
+81;Stefania;Chitila, Strada Orhideelor 89
+1;1;1

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="395.0" prefWidth="612.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="socialnetwork.controller.RequestsController">
+   <children>
+      <TableView fx:id="requestsTable" layoutX="144.0" layoutY="62.0" prefHeight="270.0" prefWidth="339.0">
+        <columns>
+          <TableColumn fx:id="firstNameColumn" prefWidth="85.20001220703125" text="First Name" />
+          <TableColumn fx:id="lastNameColumn" prefWidth="82.19996643066406" text="Last Name" />
+            <TableColumn fx:id="statusColumn" prefWidth="78.79998779296875" text="Status" />
+            <TableColumn fx:id="dateColumn" prefWidth="92.4000244140625" text="Date" />
+        </columns>
+      </TableView>
+      <Label layoutX="152.0" layoutY="44.0" text="Friend Requests" />
+      <Button fx:id="acceptButton" layoutX="143.0" layoutY="343.0" mnemonicParsing="false" onAction="#handleAccept" text="Accept Request" />
+      <Button fx:id="refuseButton" layoutX="361.0" layoutY="343.0" mnemonicParsing="false" onAction="#handleRefuse" text="Refuse Request" />
+      <Button fx:id="buttonBack" mnemonicParsing="false" onAction="#handleBack" text="&lt;" />
+   </children>
+</AnchorPane>

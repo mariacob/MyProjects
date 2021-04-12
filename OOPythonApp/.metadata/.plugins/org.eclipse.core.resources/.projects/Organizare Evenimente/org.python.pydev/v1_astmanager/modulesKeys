@@ -1,0 +1,17 @@
+MODULES_MANAGER_V2
+Asamblarea.Asamblarea|C:\Users\Maria\MyProjects\OldPythonApp\Organizare Evenimente\Asamblarea\Asamblarea.py
+Console.Console|C:\Users\Maria\MyProjects\OldPythonApp\Organizare Evenimente\Console\Console.py
+Controller.Functii|C:\Users\Maria\MyProjects\OldPythonApp\Organizare Evenimente\Controller\Functii.py
+Controller.Sortari|C:\Users\Maria\MyProjects\OldPythonApp\Organizare Evenimente\Controller\Sortari.py
+Domain.Eveniment|C:\Users\Maria\MyProjects\OldPythonApp\Organizare Evenimente\Domain\Eveniment.py
+Domain.Inscrieri|C:\Users\Maria\MyProjects\OldPythonApp\Organizare Evenimente\Domain\Inscrieri.py
+Domain.Persoana|C:\Users\Maria\MyProjects\OldPythonApp\Organizare Evenimente\Domain\Persoana.py
+Domain.Validators|C:\Users\Maria\MyProjects\OldPythonApp\Organizare Evenimente\Domain\Validators.py
+Repository_Fisier.ReoE|C:\Users\Maria\MyProjects\OldPythonApp\Organizare Evenimente\Repository_Fisier\ReoE.py
+Repository_Fisier.ReoI|C:\Users\Maria\MyProjects\OldPythonApp\Organizare Evenimente\Repository_Fisier\ReoI.py
+Repository_Fisier.ReoO|C:\Users\Maria\MyProjects\OldPythonApp\Organizare Evenimente\Repository_Fisier\ReoO.py
+Repository_Memory.RepositoryTests|C:\Users\Maria\MyProjects\OldPythonApp\Organizare Evenimente\Repository_Memory\RepositoryTests.py
+Repository_Memory.Repository_Evenimente|C:\Users\Maria\MyProjects\OldPythonApp\Organizare Evenimente\Repository_Memory\Repository_Evenimente.py
+Repository_Memory.Repository_Inscrieri|C:\Users\Maria\MyProjects\OldPythonApp\Organizare Evenimente\Repository_Memory\Repository_Inscrieri.py
+Repository_Memory.Repository_Persoane|C:\Users\Maria\MyProjects\OldPythonApp\Organizare Evenimente\Repository_Memory\Repository_Persoane.py
+Repository_Memory.Validator_Repository|C:\Users\Maria\MyProjects\OldPythonApp\Organizare Evenimente\Repository_Memory\Validator_Repository.py

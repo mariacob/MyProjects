@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="236.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="socialnetwork.controller.SelectDateController">
+   <children>
+      <DatePicker fx:id="fromDatePicker" layoutX="73.0" layoutY="25.0" />
+      <DatePicker fx:id="toDatePicker" layoutX="73.0" layoutY="67.0" />
+      <Button fx:id="buttonShowActivity" layoutX="118.0" layoutY="120.0" mnemonicParsing="false" onAction="#handleShowActivity" text="Show activity" />
+      <Label layoutX="29.0" layoutY="29.0" text="From:" />
+      <Label layoutX="29.0" layoutY="71.0" text="To:" />
+      <TableView fx:id="usersTable" layoutX="358.0" layoutY="8.0" prefHeight="200.0" prefWidth="200.0">
+        <columns>
+          <TableColumn fx:id="firstNameColumn" prefWidth="101.20001220703125" text="First Name" />
+          <TableColumn fx:id="lastNameColumn" prefWidth="98.0" text="Last Name" />
+        </columns>
+      </TableView>
+      <Button fx:id="showConversationButton" layoutX="400.0" layoutY="209.0" mnemonicParsing="false" onAction="#handleShowConversation" text="Show conversation" />
+      <Button layoutX="2.0" layoutY="1.0" mnemonicParsing="false" onAction="#handleBack" text="&lt;" />
+   </children>
+</AnchorPane>

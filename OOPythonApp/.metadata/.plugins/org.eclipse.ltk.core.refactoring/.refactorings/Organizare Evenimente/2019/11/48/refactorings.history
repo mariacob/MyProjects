@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Organizare Evenimente/UI&apos; to &apos;Console&apos;" description="Rename resource &apos;UI&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="UI" name="Console" stamp="1574624780340" updateReferences="true"/>
+</session>

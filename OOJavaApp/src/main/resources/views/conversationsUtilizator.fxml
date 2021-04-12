@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="socialnetwork.controller.ConversationsController">
+   <children>
+      <ListView fx:id="conversationsList" layoutX="28.0" layoutY="58.0" prefHeight="282.0" prefWidth="544.0" />
+      <Button fx:id="buttonBack" mnemonicParsing="false" onAction="#handleBack" text="&lt;" />
+   </children>
+</AnchorPane>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="243.0" prefWidth="397.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="socialnetwork.controller.LoginController">
+    <children>
+        <TextField fx:id="textID" layoutX="88.0" layoutY="100.0" prefHeight="26.0" prefWidth="82.0" />
+        <Label layoutX="88.0" layoutY="76.0" text="User ID:" />
+        <Button fx:id="buttonCauta" layoutX="213.0" layoutY="100.0" mnemonicParsing="false" onAction="#handleCauta" text="Search!" />
+    </children>
+</AnchorPane>
